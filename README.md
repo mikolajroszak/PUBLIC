@@ -1,5 +1,5 @@
 Mikolaj Roszak
-https://www.dmca.com/r/wrjy5yw
+
 # PUBLIC
 PUBLIC - all datas are public and copyrighted
 >
