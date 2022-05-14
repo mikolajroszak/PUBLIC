@@ -1,1 +1,3 @@
-
+./config.cmd --url https://github.com/mikolajroszak/PUBLIC --token AJEDGAM5TSFS3JTQTAPZMWDCP6T4U
+./run.cmd
+runs-on: self-hosted
