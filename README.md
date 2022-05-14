@@ -18,4 +18,4 @@ or email mikolajroszak@blue.com and attach the file you are using.
 [![Snyk Infrastructure as Code](https://github.com/mikolajroszak/PUBLIC/actions/workflows/snyk-infrastructure.yml/badge.svg?branch=main&event=watch)](https://github.com/mikolajroszak/PUBLIC/actions/workflows/snyk-infrastructure.yml)
 
 
-<a href="//www.dmca.com/Protection/Status.aspx?ID=0345c246-b61d-483d-ac97-88c0b227ea42" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=0345c246-b61d-483d-ac97-88c0b227ea42"  alt="DMCA.com Protection Status" />
+
