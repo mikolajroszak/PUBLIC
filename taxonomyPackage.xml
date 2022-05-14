@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <tp:taxonomyPackage xml:lang="en" xmlns:tp="http://xbrl.org/2016/taxonomy-package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
+	                <tp:identifier>http://xbrl.maersk.com/taxonomy/2020-12-31/APMM-2020-12-31</tp:identifier>
+	                <tp:name>APMM-2020-12-31</tp:name>
+	                <tp:description>Taxonomy Extension</tp:description>
+	                <tp:version>Final</tp:version>
+	                <tp:publisher>ParsePort</tp:publisher>
+	                <tp:publisherURL>https://www.parseport.com</tp:publisherURL>
+	                <tp:publisherCountry>DK</tp:publisherCountry>
+	                <tp:publicationDate>2021-02-10</tp:publicationDate>  
+	                <tp:entryPoints>
+		                <tp:entryPoint>
+			                <tp:name>APMM-2020-12-31</tp:name>
+			                <tp:description>Entry point to be used to load Custom Taxonomy</tp:description><tp:entryPointDocument href="http://xbrl.maersk.com/taxonomy/2020-12-31/APMM-2020-12-31.xsd"/><tp:languages><tp:language>en</tp:language></tp:languages>
+	                    </tp:entryPoint>	
+                    </tp:entryPoints>	
+                    </tp:taxonomyPackage>
