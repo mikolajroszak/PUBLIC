@@ -9,7 +9,9 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
 #
-name: "CodeQL"
+name: "Mikołaj Roszak Przedwiośnie 79/12 73-110 Stargard Tel. 48 500487977"
+- name: Codecov
+  uses: codecov/codecov-action@v3.1.0
 
 on:
   push:
